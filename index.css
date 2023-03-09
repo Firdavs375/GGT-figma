@@ -280,15 +280,13 @@ hr {
 }
 
 
-.rang_div:nth-child(2+n){
+/* .rang_div:nth-child(2+n){
     background: #2389CA;
 }
 
 .rang_div:nth-child(3+n){
     background: #ED6E44;
-}
-
-
+} */
 
 
 .uchtasini_divi{
@@ -297,4 +295,12 @@ hr {
     width: 1000px;
     margin-left: 120px;
     margin-top: 100px;
+}
+
+.m{
+    background: #2389CA;
+}
+
+.n{
+    background: #ED6E44;
 }
