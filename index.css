@@ -280,11 +280,11 @@ hr {
 }
 
 
-/* .rang_div:nth-child(2+n){
+/* .rang_div:nth-child(2n){
     background: #2389CA;
 }
 
-.rang_div:nth-child(3+n){
+.rang_div:nth-child(3n){
     background: #ED6E44;
 } */
 
@@ -304,3 +304,4 @@ hr {
 .n{
     background: #ED6E44;
 }
+
