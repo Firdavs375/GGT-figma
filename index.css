@@ -11,6 +11,7 @@
 body {
     font-family: 'Nunito Sans', sans-serif;
     font-family: 'Montserrat', sans-serif;
+    background: #E5E5E5 !important;
 }
 
 
@@ -109,9 +110,6 @@ nav {
     margin-top: 70px;
 }
 
-.prev {
-    border: 2px solid red;
-}
 
 header {
     margin-top: 32px;
@@ -121,9 +119,6 @@ header {
     margin-left: -60px;
 }
 
-.d-block {
-    margin-top: 4px;
-}
 
 /* .carousel-control-prev-icon{
     border: 2px solid red;
@@ -273,7 +268,7 @@ hr {
 }
 
 
-.rang_div{
+.rang_div {
     background: #FCBD14;
     border-radius: 5px 5px 0px 0px;
     height: 10px;
@@ -290,7 +285,7 @@ hr {
 } */
 
 
-.uchtasini_divi{
+.uchtasini_divi {
     display: flex;
     justify-content: space-between;
     width: 1000px;
@@ -298,11 +293,189 @@ hr {
     margin-top: 100px;
 }
 
-.m{
+.m {
     background: #2389CA;
 }
 
-.n{
+.n {
     background: #ED6E44;
 }
 
+.olovrang_div {
+    background: #FF6E3C;
+    border-radius: 20px;
+    transform: skewX(-20deg);
+    padding: 30px 0px 10px 70px;
+}
+
+.sozcha_2 {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+    transform: skewX(20deg);
+}
+
+.sozchalar_3 {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #1F2630;
+    margin-top: 23px;
+}
+
+.sariv_div {
+    background: #FFC50B;
+    height: 152px;
+    transform: skewX(-20deg);
+    border-radius: 20px;
+}
+
+.section2 {
+    margin-top: 63px;
+    background: #FFF;
+}
+
+.card_divcha {
+    background: #fff;
+}
+
+.katta_div1 {
+    display: flex;
+    background: #fff;
+    width: 960px;
+    background: #FFFFFF;
+    border: 1px solid #E4E9EF;
+    box-shadow: 0px 20px 30px -15px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    gap: 100px;
+    margin-left: 150px;
+}
+
+.sarlavha1 {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    color: #1F2630;
+}
+
+.sozcha3 {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1F2630;
+    margin-top: 16px;
+    margin-bottom: 29px;
+}
+
+.btn3 {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+    color: #1F2630;
+    background: #FFFFFF;
+    border: 1px solid #E4E9EF;
+    box-shadow: 0px 20px 30px -15px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    border-color: #2FA56C;
+    padding: 10px 49px;
+}
+
+.btn3:hover{
+    box-shadow: 1px 1px 30px rgba(40, 168, 115, 0.7);;
+}
+
+.bola_qiz {
+    width: 500px;
+    height: 280px;
+}
+
+.soz_div {
+    padding: 20px 0px 16px 30px;
+}
+
+.section3 {
+    margin-top: 52px;
+}
+
+.section4 {
+    margin-top: 80px;
+    margin-left: -30px;
+}
+
+.qiz_text_div {
+    display: flex;
+    background: linear-gradient(98.07deg, #ED6E44 -5.24%, #FCBD14 85.53%, #FFFFFF 126.15%), #F6AE96;
+    box-shadow: 0px 20px 30px -15px rgba(241, 131, 56, 0.6);
+    border-radius: 15px 15px 0px 0px;
+    padding: 10px 0px 30px 20px;
+}
+
+/* .qiz_text_div:nth-child(2n) {
+    background: linear-gradient(120.27deg, #2FA56C -2.27%, #2389CA 104.54%), #FFFFFF;
+    box-shadow: 0px 20px 30px -15px rgba(40, 148, 168, 0.7);
+    border-radius: 15px;
+} */
+
+.boshqa_rang {
+    background: linear-gradient(120.27deg, #2FA56C -2.27%, #2389CA 104.54%), #FFFFFF;
+    box-shadow: 0px 20px 30px -15px rgba(40, 148, 168, 0.7);
+    border-radius: 15px 15px 0px 0px;
+}
+
+.sarlavha2 {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.sozchalar2 {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin-top: 40px;
+}
+
+.qiz_texlar_btn_div {
+    position: relative;
+    border-radius: 15px;
+}
+
+.qiz_texlar_btn_div:hover{
+    box-shadow: 1px 1px 30px  rgb(241, 130, 56, 0.7);;
+}
+
+.aa:hover{
+    box-shadow: 1px 1px 30px rgba(40, 148, 168, 0.7);;
+}
+
+.qiz {
+    position: absolute;
+    margin-top: -37px;
+    width: 177px;
+    height: 255px;
+    margin-left: 70px;
+}
+
+.btnnni_divi {
+    background: #FFFFFF;
+    border-radius: 0px 0px 15px 5px;
+    padding: 20px 235px 19px 27px;
+}
