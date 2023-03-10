@@ -148,14 +148,15 @@ header {
     width: 10px;
     height: 30px;
 }
-
 .carousel-control-next{
-    border: 2px solid red;
-    margin-right: -100px;
-    width: 60px;
-    height: 400px;
-    background: #0ef802fb;
-} */
+    border: 2px solid red !important;
+    margin-right: -100px !important;
+    width: 50px !important;
+    height: 400px !important;
+    background: #0ef802fb !important;
+    height: 100px !important;
+    border-radius: 8px;
+}   */
 
 
 .iktta_soz {
